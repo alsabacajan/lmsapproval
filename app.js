@@ -4,7 +4,7 @@ const express = require('express');
 
 const app = express();
  
-//test
+//test snyk
 // Setup middleware for parsing application/json
 app.use(express.json());
 // Setup middleware for parsing application/x-www-form-urlencoded
